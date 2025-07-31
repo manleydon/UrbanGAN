@@ -40,7 +40,7 @@ UrbanGAN/
 │   ├── CVUSA_subset/
 │   │   ├── file_paths.csv        # Pre-training CSV mapping satellite to street-view paths
 │   │   ├── bingmap/                  # Directory for CVUSA satellite images
-│   │   ├── streetview/               # Directory for CVUSA street-view images
+│   │   └── streetview/               # Directory for CVUSA street-view images
 │   ├── CVUSA_bingmapcaptions_output.json # Captions for CVUSA satellite images
 │   │
 │   ├── Haidian/                  # Example downstream dataset directory
