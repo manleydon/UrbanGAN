@@ -22,10 +22,6 @@ UrbanGAN is a sequential, three-stage framework:
 
 ## Setup
 
-### 1. Create Environment and Install Dependencies
-
-We recommend using a conda environment.
-
 # Create and activate a new conda environment
 conda create -n urbangan python=3.10
 conda activate urbangan
