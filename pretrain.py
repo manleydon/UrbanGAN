@@ -346,8 +346,8 @@ CONFIG_R3GAN_STYLE = {
     "beta2_adam": 0.99,
     "lambda_r1": 40,
 
-    "num_epochs_stage1_text_align": 1,
-    "num_epochs_stage2_r3gan": 1,
+    "num_epochs_stage1_text_align": 100,
+    "num_epochs_stage2_r3gan": 100,
 
     "device": torch.device("cuda" if torch.cuda.is_available() else "cpu"),
 
