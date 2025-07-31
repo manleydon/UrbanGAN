@@ -3,7 +3,6 @@
 This repository contains the official PyTorch implementation for the paper "UrbanGAN". Our work addresses the challenge of data scarcity in urban sensing by synthesizing virtual street-view features directly from satellite imagery and textual descriptions to enhance downstream socioeconomic prediction tasks.
 
 ## Framework Overview
-![Framework Diagram](https://github.com/manleydon/UrbanGAN/blob/main/framework.png)
 
 UrbanGAN is a sequential, three-stage framework:
 
