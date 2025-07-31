@@ -1,4 +1,4 @@
-# UrbanGAN: Cross-Modal Generative Framework for Urban Socioeconomic Prediction
+# UrbanGAN: A Cross-Modal Generative Framework for Urban Socioeconomic Prediction
 
 This repository contains the official PyTorch implementation for the paper "UrbanGAN". Our work addresses the challenge of data scarcity in urban sensing by synthesizing virtual street-view features directly from satellite imagery and textual descriptions to enhance downstream socioeconomic prediction tasks.
 
