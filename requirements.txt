@@ -1,0 +1,9 @@
+torch
+torchvision
+pandas
+numpy
+scikit-learn
+Pillow
+open_clip_torch
+xgboost
+tqdm
